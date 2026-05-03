@@ -22,24 +22,11 @@ In this project, I have used the following SQL concepts:
 
 SELECT statement
 WHERE clause (Filtering data)
-ORDER BY (Sorting data)
 Aggregate Functions:
 COUNT()
-SUM()
-AVG()
-MIN()
-MAX()
 DISTINCT keyword
 INNER JOIN (Basic level)
-🔍 Key Queries Solved
-Retrieve all records from Employees table
-Find employees with salary greater than 50,000
-Get employees from HR department
-Fetch unique department details
-Count total number of employees
-Find maximum, minimum, average, and total salary
-Sort employees based on salary
-Filter employees using conditions (LIKE, BETWEEN, NULL)
+
 💡 Key Learnings
 How to retrieve and filter data efficiently
 Understanding relationships between tables using JOIN
