@@ -1,0 +1,5 @@
+Retrieve all records from the Employees table.
+Retrieve employees with a salary greater than 50,000.
+Retrieve employees who belong to the HR department.
+Retrieve unique department IDs and name from the Department table.
+Find the total number of employees.
