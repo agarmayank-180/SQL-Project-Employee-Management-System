@@ -1,0 +1,10 @@
+Find the maximum salary of employees.
+Find the minimum salary of employees.
+Find the average salary of employees.
+Find the total salary of all employees.
+Display employees sorted by salary in descending order.
+Retrieve employees whose names start with the letter 'A'.
+Retrieve employees who do not have a manager (NULL values).
+Retrieve employees who joined after 1st January 2022.
+Retrieve employees whose salary is between 30,000 and 60,000.
+Retrieve employees who belong to department 1 or 2
